@@ -1,0 +1,10 @@
+Django
+django-heroku
+numpy
+pandas
+python-dateutil
+scikit-learn
+scipy
+six
+sqlparse
+whitenoise
